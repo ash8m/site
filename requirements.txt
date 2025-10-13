@@ -1,0 +1,4 @@
+mkdocs-material
+mkdocs-open-in-new-tab
+mkdocs-exclude-search
+./extra_python

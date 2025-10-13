@@ -1,0 +1,11 @@
+name: myaccessid-uk-site-env
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python >=3.12
+
+  - pip
+  - pip:
+    - -r requirements.txt
+    - -r requirements-dev.txt
